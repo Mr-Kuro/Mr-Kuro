@@ -8,7 +8,7 @@ I love exploring new technologies and finding innovative solutions to complex pr
 - 👯 Fun fact: I like to study the history of civilizations.
 - 🤔 Currently studying and involved in Web Applications architecture and development.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&)](https://www.linkedin.com/in/mr-kuro/)&nbsp; [![Mr Kuro .dev](https://img.shields.io/badge/Mr%E2%80%93Kuro.dev-000000?style=for-the-badge&label=www&labelColor=%23222)](https://mr-kuro.dev/)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-222222?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=%23222)](https://www.linkedin.com/in/mr-kuro/)&nbsp; [![Mr Kuro .dev](https://img.shields.io/badge/Mr--Kuro.dev-222222?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=%23222)](https://mr-kuro.dev/)&nbsp;
 
 ## I've worked with
 
