@@ -33,6 +33,7 @@ I love exploring new technologies and finding innovative solutions to complex pr
 
 
 <div  align="center" style="margin-bottom:100px">
-  <img width=55% align="center" alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=mr-kuro&theme=radical&mode=weekly" />
-  <img width=40% align="center" alt="Top Languages Stats" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=mr-kuro&show_icons=true&theme=radical&layout=compact" />
+  <img width=55% align="center" alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Kuro&theme=tokyonight&hide_border=true" />
+  
+  <img width=40% align="center" alt="Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Kuro&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
 </div>
