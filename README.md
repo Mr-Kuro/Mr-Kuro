@@ -1,5 +1,3 @@
-#
-
 ## Hi there 👋
 
 I'm Anderson Queiroz, also known as Mr. Kuro. I'm a Brazilian software engineer with a passion for web development and architecture.
