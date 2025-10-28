@@ -12,7 +12,7 @@ I love exploring new technologies and finding innovative solutions to complex pr
 
 ## I've worked with
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="300px" width="400px" align="right" alt="Computador iuriCode"  />
+<img src="https://mr-kuro.dev/assets/apresentacao-lPMUpEAE.png" min-width="400px" max-width="300px" width="400px" align="right" alt="resive development for devices image"  />
 
 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
