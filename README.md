@@ -33,7 +33,7 @@ I love exploring new technologies and finding innovative solutions to complex pr
 ![Git](https://img.shields.io/badge/GIT-E44C40?style=for-the-badge&logo=git&logoColor=white)&nbsp; ![GitHub](https://img.shields.io/badge/GITHUB-000028?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
 
-<div align="start" style="margin-bottom: 100px;">
+<div align="end" style="margin-bottom: 100px;">
   <!-- <img
     style="width: 45%; max-width: 100%; height: auto; margin-right:16px"
     alt="GitHub Streak Stats"
