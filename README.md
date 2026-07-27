@@ -12,8 +12,9 @@ I love exploring new technologies and finding innovative solutions to complex pr
 
 ## I've worked with
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=mr-kuro&hide_title=true&langs_count=5&theme=dark" min-width="400px" max-width="300px" width="400px" align="right" alt="resive development for devices image"  />
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=mr-kuro&hide_title=true&langs_count=5&theme=dark" width="400px" align="right" alt="Top Languages Stats"  />
 
+<br/>
 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -32,15 +33,15 @@ I love exploring new technologies and finding innovative solutions to complex pr
 ![Git](https://img.shields.io/badge/GIT-E44C40?style=for-the-badge&logo=git&logoColor=white)&nbsp; ![GitHub](https://img.shields.io/badge/GITHUB-000028?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
 
-<div align="center" style="margin-bottom: 100px;">
-  <img
+<div align="start" style="margin-bottom: 100px;">
+  <!-- <img
     style="width: 45%; max-width: 100%; height: auto; margin-right:16px"
     alt="GitHub Streak Stats"
     src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Kuro&theme=dark&hide_border=false"
-  />
+  /> -->
   <img
     style="width: 40%; max-width: 100%; height: auto;"
-    alt="Top Languages Stats"
+    alt="Github general stats"
     src="https://github-stats-extended.vercel.app/api?username=mr-kuro&custom_title=My%20GitHub%20Stats&include_all_commits=true&theme=dark"
   />
 </div>
