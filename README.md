@@ -39,9 +39,9 @@ I love exploring new technologies and finding innovative solutions to complex pr
     alt="GitHub Streak Stats"
     src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Kuro&theme=dark&hide_border=false"
   /> -->
-  <img
+  <!-- <img
     style="width: 40%; max-width: 100%; height: auto;"
     alt="Github general stats"
     src="https://github-stats-extended.vercel.app/api?username=mr-kuro&custom_title=My%20GitHub%20Stats&include_all_commits=true&theme=dark"
-  />
+  /> -->
 </div>
